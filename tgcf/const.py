@@ -2,9 +2,13 @@
 
 COMMANDS = {
     "start": "Check whether I am alive",
-    "forward": "Set a new forward",
-    "remove": "Remove an existing forward",
-    "help": "Learn usage",
+    "batch": "[SRC]Bulk download",
+    "cancel": "[SRC]Cancel batch",
+    "forward": "[TGCF]Set a new forward",
+    "style": "[TGCF]Font style",
+    "remove": "[TGCF]Remove an existing forward",
+    "help": "link to developers",
+ 
 }
 
 REGISTER_COMMANDS = True
