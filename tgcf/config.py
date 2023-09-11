@@ -73,7 +73,7 @@ class LoginConfig(BaseModel):
 
 class BotMessages(BaseModel):
     start: str = "TGCF - **Working**"
-    bot_help: str = "For details about \n\n **TGCF** https://github.com/aahnik/tgcf \n **SRC** @DRONEBots "
+    bot_help: str = "Details about the developers \n\n **TGCF** https://github.com/aahnik/tgcf \n **SRC** @DRONEBots "
 
 
 class Config(BaseModel):
