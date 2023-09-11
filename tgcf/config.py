@@ -72,8 +72,8 @@ class LoginConfig(BaseModel):
 
 
 class BotMessages(BaseModel):
-    start: str = "tgcf **Working**"
-    bot_help: str = "For details about [[https://github.com/aahnik/tgcf|tgcf]] [[https://t.me/MaheshChauhan|Save Restricted Content Bot]]"
+    start: str = "TGCF - **Working**"
+    bot_help: str = "For details about \n\n **TGCF** https://github.com/aahnik/tgcf \n **SRC** @DRONEBots "
 
 
 class Config(BaseModel):
